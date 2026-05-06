@@ -10,7 +10,7 @@
 ### Joanne Rowling (J.K ROWLING)
 
 ### BOOKS TO READ!
-<img width="182" height="267" alt="Screenshot 2026-05-06 at 4 38 49 PM" src="https://github.com/user-attachments/assets/1e170278-1b69-4c0a-9a99-4b81f6427243" />
+<img width="182" height="267" alt="Diary of a wimpy kid 1" src="https://github.com/user-attachments/assets/1e170278-1b69-4c0a-9a99-4b81f6427243" />
 
 
 
