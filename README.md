@@ -1,4 +1,5 @@
 <html>
+<head>JOE AND LIAMS LIBRARY</head>
 <body><h1>Welcome to the library whoever you are!!</h1></body>
 <body><h3>I am the digital librarian of this library! I have no visual form yet.</h3></body> <br>
 <body><h3>If you are currently reading this, the library has not been made yet :(</h3></body> <br>
