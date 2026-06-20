@@ -18,7 +18,7 @@
 <body><h1>UPDATE LOG</h1></body>
 
 
-<body>Added Julia Donaldson. We are planning</body>
+<body>Added Julia Donaldson. We are planning to add more authors and books. 📕</body>
 
 </html>
 
